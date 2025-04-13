@@ -1,6 +1,11 @@
 
 # 🧬 RNA-FoldNet: A Hybrid Graph-Transformer Model with Energy-Based Refinement for RNA 3D Structure Prediction
 
+<p align="center">
+  <img src="RNA.png" alt="RNA Logo" width="500"/>
+</p>
+
+
 **A modular deep learning pipeline for RNA tertiary structure prediction** combining contrastive pretraining, graph-transformer modeling, and denoising diffusion refinement — built entirely with **PyTorch** and trained on the **Stanford RNA 3D Folding Dataset**.
 
 > Powered by **GNNs**, **Transformer Attention**, and **DDPM-based denoising**, this architecture bridges sequence and spatial reasoning for high-fidelity RNA 3D structure prediction.
