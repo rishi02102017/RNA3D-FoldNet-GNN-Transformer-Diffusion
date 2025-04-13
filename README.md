@@ -35,30 +35,30 @@
 ## 📊 Visualizations
 
 ### 1. **3D Overlay: Ground Truth vs Coarse vs Refined**
-![Overlay](screenshots/overlay_gt_coarse_refined.jpg)
+![Overlay](screenshots/overlay_gt_coarse_refined.jpeg)
 
 ### 2. **Color-Mapped Structural Predictions**
 - Ground Truth  
-  ![GT](screenshots/ground_truth.jpg)
+  ![GT](screenshots/ground_truth.jpeg)
 - Coarse Prediction  
-  ![Coarse](screenshots/coarse_prediction.jpg)
+  ![Coarse](screenshots/coarse_prediction.jpeg)
 - Refined Output  
-  ![Refined](screenshots/refined_prediction.jpg)
+  ![Refined](screenshots/refined_prediction.jpeg)
 
 ### 3. **t-SNE of Contrastive Embeddings**
-![tSNE](screenshots/tsne_embeddings.jpg)
+![tSNE](screenshots/tsne_embeddings.jpeg)
 
 ### 4. **Training Curves**
-![Loss](screenshots/training_loss.jpg)
+![Loss](screenshots/training_loss.jpeg)
 
 ### 5. **Sequence Length Distribution**
-![LengthDist](screenshots/length_distribution.jpg)
+![LengthDist](screenshots/length_distribution.jpeg)
 
 ### 6. **Diffusion Steps**
-![Diffusion](screenshots/diffusion_steps.jpg)
+![Diffusion](screenshots/diffusion_steps.jpeg)
 
 ### 7. **Pairwise Distance Comparison**
-![Distances](screenshots/pairwise_comparison.jpg)
+![Distances](screenshots/pairwise_comparison.jpeg)
 
 ---
 
