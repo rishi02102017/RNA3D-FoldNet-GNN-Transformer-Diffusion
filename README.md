@@ -89,10 +89,11 @@ All stages — contrastive pretraining, graph-transformer modeling, and diffusio
 
 ```bash
 # Step 1: Launch the notebook
-Open RNA_Foldnet.ipynb in Google Colab or Jupyter Lab
+Open RNA_Foldnet.ipynb in Google Colab or Jupyter Notebook
 
 # Step 2: Run all cells
 Execute sequentially from data loading to final prediction & plots
+```
 
 ---
 
